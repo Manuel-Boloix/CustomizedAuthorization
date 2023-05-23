@@ -1,6 +1,5 @@
 #
-Jaime Boloix,boloixjm@gmail.com
+# Jaime Boloix,boloixjm@gmail.com
 #
-Ctcp,1.0.11,1,230523,230901
-CtcpFix,0.0.1,1,230518,*
-
+A,Ctcp,1.0.11,1,230523,230901
+A,CtcpListener,*,1,230523,*
